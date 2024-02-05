@@ -1,0 +1,6 @@
+pause 60000
+add_me
+pause 15000
+pause 15000
+pause 30000
+stop

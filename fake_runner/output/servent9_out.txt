@@ -1,0 +1,136 @@
+13:18:32 - Starting servent [9|localhost|1900]
+13:18:32 - Don't have buddy to ping
+13:18:32 - Pausing for 60000 ms
+13:18:33 - Don't have buddy to ping
+13:18:34 - Don't have buddy to ping
+13:18:35 - Don't have buddy to ping
+13:18:36 - Don't have buddy to ping
+13:18:37 - Don't have buddy to ping
+13:18:38 - Don't have buddy to ping
+13:18:39 - Don't have buddy to ping
+13:18:40 - Don't have buddy to ping
+13:18:41 - Don't have buddy to ping
+13:18:42 - Don't have buddy to ping
+13:18:43 - Don't have buddy to ping
+13:18:44 - Don't have buddy to ping
+13:18:45 - Don't have buddy to ping
+13:18:46 - Don't have buddy to ping
+13:18:47 - Don't have buddy to ping
+13:18:48 - Don't have buddy to ping
+13:18:49 - Don't have buddy to ping
+13:18:50 - Don't have buddy to ping
+13:18:51 - Don't have buddy to ping
+13:18:52 - Don't have buddy to ping
+13:18:53 - Don't have buddy to ping
+13:18:54 - Don't have buddy to ping
+13:18:55 - Don't have buddy to ping
+13:18:56 - Don't have buddy to ping
+13:18:57 - Don't have buddy to ping
+13:18:58 - Don't have buddy to ping
+13:18:59 - Don't have buddy to ping
+13:19:00 - Don't have buddy to ping
+13:19:01 - Don't have buddy to ping
+13:19:02 - Don't have buddy to ping
+13:19:03 - Don't have buddy to ping
+13:19:05 - Don't have buddy to ping
+13:19:06 - Don't have buddy to ping
+13:19:07 - Don't have buddy to ping
+13:19:08 - Don't have buddy to ping
+13:19:09 - Don't have buddy to ping
+13:19:10 - Don't have buddy to ping
+13:19:11 - Don't have buddy to ping
+13:19:12 - Don't have buddy to ping
+13:19:13 - Don't have buddy to ping
+13:19:14 - Don't have buddy to ping
+13:19:15 - Don't have buddy to ping
+13:19:16 - Don't have buddy to ping
+13:19:17 - Don't have buddy to ping
+13:19:18 - Don't have buddy to ping
+13:19:19 - Don't have buddy to ping
+13:19:20 - Don't have buddy to ping
+13:19:21 - Don't have buddy to ping
+13:19:22 - Don't have buddy to ping
+13:19:23 - Don't have buddy to ping
+13:19:24 - Don't have buddy to ping
+13:19:25 - Don't have buddy to ping
+13:19:26 - Don't have buddy to ping
+13:19:27 - Don't have buddy to ping
+13:19:28 - Don't have buddy to ping
+13:19:29 - Don't have buddy to ping
+13:19:30 - Don't have buddy to ping
+13:19:31 - Don't have buddy to ping
+13:19:32 - Don't have buddy to ping
+13:19:32 - Basic message BOOTSTRAP_ASK - [9|localhost|1900] - null
+13:19:32 - Pausing for 15000 ms
+13:19:33 - Don't have buddy to ping
+13:19:34 - Don't have buddy to ping
+13:19:34 - Sending message [9|0||BOOTSTRAP_ASK|]
+13:19:35 - Don't have buddy to ping
+13:19:35 - Got message [0|8||BOOTSTRAP_RESPONSE|9]
+13:19:35 - Parse message [0|8||BOOTSTRAP_RESPONSE|9]
+13:19:35 - Bootstrap response [2|localhost|1200]
+13:19:35 - Someone should add me
+13:19:35 - Basic message ADD_ME - [9|localhost|1900] - [2|localhost|1200]
+13:19:35 - localhost:1200 will add me
+13:19:36 - Don't have buddy to ping
+13:19:37 - Don't have buddy to ping
+13:19:37 - Sending message [9|1||ADD_ME|2]
+13:19:38 - Don't have buddy to ping
+13:19:39 - Don't have buddy to ping
+13:19:40 - Don't have buddy to ping
+13:19:41 - Don't have buddy to ping
+13:19:42 - Don't have buddy to ping
+13:19:43 - Don't have buddy to ping
+13:19:44 - Don't have buddy to ping
+13:19:45 - Don't have buddy to ping
+13:19:46 - Don't have buddy to ping
+13:19:47 - Don't have buddy to ping
+13:19:47 - Pausing for 15000 ms
+13:19:48 - Don't have buddy to ping
+13:19:49 - Don't have buddy to ping
+13:19:50 - Don't have buddy to ping
+13:19:51 - Don't have buddy to ping
+13:19:52 - Don't have buddy to ping
+13:19:53 - Don't have buddy to ping
+13:19:54 - Don't have buddy to ping
+13:19:55 - Don't have buddy to ping
+13:19:56 - Don't have buddy to ping
+13:19:57 - Don't have buddy to ping
+13:19:58 - Don't have buddy to ping
+13:19:59 - Don't have buddy to ping
+13:20:00 - Don't have buddy to ping
+13:20:01 - Don't have buddy to ping
+13:20:02 - Don't have buddy to ping
+13:20:02 - Pausing for 30000 ms
+13:20:03 - Don't have buddy to ping
+13:20:04 - Don't have buddy to ping
+13:20:05 - Don't have buddy to ping
+13:20:06 - Don't have buddy to ping
+13:20:07 - Don't have buddy to ping
+13:20:08 - Don't have buddy to ping
+13:20:09 - Don't have buddy to ping
+13:20:10 - Don't have buddy to ping
+13:20:11 - Don't have buddy to ping
+13:20:12 - Don't have buddy to ping
+13:20:13 - Don't have buddy to ping
+13:20:14 - Don't have buddy to ping
+13:20:15 - Don't have buddy to ping
+13:20:16 - Don't have buddy to ping
+13:20:17 - Don't have buddy to ping
+13:20:18 - Don't have buddy to ping
+13:20:19 - Don't have buddy to ping
+13:20:20 - Don't have buddy to ping
+13:20:21 - Don't have buddy to ping
+13:20:22 - Don't have buddy to ping
+13:20:23 - Don't have buddy to ping
+13:20:24 - Don't have buddy to ping
+13:20:25 - Don't have buddy to ping
+13:20:26 - Don't have buddy to ping
+13:20:27 - Don't have buddy to ping
+13:20:28 - Don't have buddy to ping
+13:20:29 - Don't have buddy to ping
+13:20:30 - Don't have buddy to ping
+13:20:31 - Don't have buddy to ping
+13:20:32 - Don't have buddy to ping
+13:20:32 - Stopping...
+13:20:32 - Not working anymore

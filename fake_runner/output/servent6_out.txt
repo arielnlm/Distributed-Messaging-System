@@ -1,0 +1,158 @@
+13:18:33 - Starting servent [6|localhost|1600]
+13:18:33 - Don't have buddy to ping
+13:18:33 - Pausing for 60000 ms
+13:18:34 - Don't have buddy to ping
+13:18:35 - Don't have buddy to ping
+13:18:36 - Don't have buddy to ping
+13:18:37 - Don't have buddy to ping
+13:18:38 - Don't have buddy to ping
+13:18:39 - Don't have buddy to ping
+13:18:40 - Don't have buddy to ping
+13:18:41 - Don't have buddy to ping
+13:18:42 - Don't have buddy to ping
+13:18:43 - Don't have buddy to ping
+13:18:44 - Don't have buddy to ping
+13:18:45 - Don't have buddy to ping
+13:18:46 - Don't have buddy to ping
+13:18:47 - Don't have buddy to ping
+13:18:48 - Don't have buddy to ping
+13:18:49 - Don't have buddy to ping
+13:18:50 - Don't have buddy to ping
+13:18:51 - Don't have buddy to ping
+13:18:52 - Don't have buddy to ping
+13:18:53 - Don't have buddy to ping
+13:18:54 - Don't have buddy to ping
+13:18:55 - Don't have buddy to ping
+13:18:56 - Don't have buddy to ping
+13:18:57 - Don't have buddy to ping
+13:18:58 - Don't have buddy to ping
+13:18:59 - Don't have buddy to ping
+13:19:00 - Don't have buddy to ping
+13:19:01 - Don't have buddy to ping
+13:19:02 - Don't have buddy to ping
+13:19:03 - Don't have buddy to ping
+13:19:04 - Don't have buddy to ping
+13:19:05 - Don't have buddy to ping
+13:19:06 - Don't have buddy to ping
+13:19:07 - Don't have buddy to ping
+13:19:08 - Don't have buddy to ping
+13:19:09 - Don't have buddy to ping
+13:19:10 - Don't have buddy to ping
+13:19:11 - Don't have buddy to ping
+13:19:12 - Don't have buddy to ping
+13:19:13 - Don't have buddy to ping
+13:19:14 - Don't have buddy to ping
+13:19:15 - Don't have buddy to ping
+13:19:16 - Don't have buddy to ping
+13:19:17 - Don't have buddy to ping
+13:19:18 - Don't have buddy to ping
+13:19:19 - Don't have buddy to ping
+13:19:20 - Don't have buddy to ping
+13:19:21 - Don't have buddy to ping
+13:19:22 - Don't have buddy to ping
+13:19:23 - Don't have buddy to ping
+13:19:24 - Don't have buddy to ping
+13:19:25 - Don't have buddy to ping
+13:19:26 - Don't have buddy to ping
+13:19:27 - Don't have buddy to ping
+13:19:28 - Don't have buddy to ping
+13:19:29 - Don't have buddy to ping
+13:19:30 - Don't have buddy to ping
+13:19:31 - Don't have buddy to ping
+13:19:32 - Don't have buddy to ping
+13:19:33 - Basic message BOOTSTRAP_ASK - [6|localhost|1600] - null
+13:19:33 - Pausing for 60000 ms
+13:19:33 - Don't have buddy to ping
+13:19:33 - Sending message [6|0||BOOTSTRAP_ASK|]
+13:19:34 - Don't have buddy to ping
+13:19:35 - Don't have buddy to ping
+13:19:35 - Got message [0|3||BOOTSTRAP_RESPONSE|6]
+13:19:35 - Parse message [0|3||BOOTSTRAP_RESPONSE|6]
+13:19:35 - Bootstrap response [2|localhost|1200]
+13:19:35 - Someone should add me
+13:19:35 - Basic message ADD_ME - [6|localhost|1600] - [2|localhost|1200]
+13:19:35 - localhost:1200 will add me
+13:19:36 - Sending message [6|1||ADD_ME|2]
+13:19:36 - Don't have buddy to ping
+13:19:36 - Got message [2|35||UPDATE_STATE|6]
+13:19:36 - Parse message [2|35||UPDATE_STATE|6]
+13:19:37 - Got message [2|28||UPDATE_STATE|6]
+13:19:37 - Parse message [2|28||UPDATE_STATE|6]
+13:19:37 - Got message [2|29||WELCOME|6]
+13:19:37 - Parse message [2|29||WELCOME|6]
+13:19:38 - Got message [2|41||SUZUKI_REQUEST|6]
+13:19:38 - Parse message [2|41||SUZUKI_REQUEST|6]
+13:19:38 - Parse message [1|33|PING|PING|6]
+13:19:39 - Got message [1|52||UPDATE_STATE|6]
+13:19:39 - Parse message [1|52||UPDATE_STATE|6]
+13:19:39 - Parse message [5|3|PONG|PONG|6]
+13:19:39 - Got message [1|44||UPDATE_STATE|6]
+13:19:39 - Parse message [1|44||UPDATE_STATE|6]
+13:19:39 - Got message [1|38||UPDATE_STATE|6]
+13:19:39 - Parse message [1|38||UPDATE_STATE|6]
+13:19:42 - Everyone is ok
+13:19:43 - Parse message [1|59|PING|PING|6]
+13:19:44 - Parse message [5|5|PONG|PONG|6]
+13:19:44 - Got message [3|14||SUZUKI_REQUEST|6]
+13:19:44 - Parse message [3|14||SUZUKI_REQUEST|6]
+13:19:46 - Got message [3|22||UPDATE_STATE|6]
+13:19:46 - Parse message [3|22||UPDATE_STATE|6]
+13:19:46 - Got message [3|29||UPDATE_STATE|6]
+13:19:46 - Parse message [3|29||UPDATE_STATE|6]
+13:19:47 - Everyone is ok
+13:19:48 - Parse message [1|61|PING|PING|6]
+13:19:49 - Parse message [5|7|PONG|PONG|6]
+13:19:52 - Everyone is ok
+13:19:53 - Parse message [1|63|PING|PING|6]
+13:19:54 - Got message [1|66||SUZUKI_REQUEST|6]
+13:19:54 - Parse message [1|66||SUZUKI_REQUEST|6]
+13:19:54 - Parse message [5|9|PONG|PONG|6]
+13:19:54 - Got message [2|51||SUZUKI_REQUEST|6]
+13:19:54 - Parse message [2|51||SUZUKI_REQUEST|6]
+13:19:55 - Got message [1|73||UPDATE_STATE|6]
+13:19:55 - Parse message [1|73||UPDATE_STATE|6]
+13:19:57 - Everyone is ok
+13:19:58 - Parse message [1|77|PING|PING|6]
+13:19:59 - Parse message [5|11|PONG|PONG|6]
+13:20:02 - Everyone is ok
+13:20:02 - Parse message [1|79|PING|PING|6]
+13:20:04 - Parse message [5|13|PONG|PONG|6]
+13:20:07 - Everyone is ok
+13:20:08 - Parse message [1|81|PING|PING|6]
+13:20:10 - Parse message [5|15|PONG|PONG|6]
+13:20:12 - Everyone is ok
+13:20:13 - Parse message [1|83|PING|PING|6]
+13:20:14 - Parse message [5|17|PONG|PONG|6]
+13:20:17 - Everyone is ok
+13:20:17 - Parse message [1|85|PING|PING|6]
+13:20:19 - Parse message [5|19|PONG|PONG|6]
+13:20:22 - Everyone is ok
+13:20:22 - Parse message [1|88|PING|PING|6]
+13:20:23 - Parse message [5|21|PONG|PONG|6]
+13:20:27 - Everyone is ok
+13:20:27 - Parse message [1|91|PING|PING|6]
+13:20:29 - Parse message [5|23|PONG|PONG|6]
+13:20:30 - Got message [3|51||SUZUKI_REQUEST|6]
+13:20:30 - Parse message [3|51||SUZUKI_REQUEST|6]
+13:20:32 - Everyone is ok
+13:20:32 - Parse message [1|94|PING|PING|6]
+13:20:33 - Stopping...
+13:20:33 - Not working anymore
+13:20:37 - Soft fail for localhost:1500
+13:20:37 - Basic message IS_OK - [6|localhost|1600] - [3|localhost|1300]
+13:20:38 - Sending message [6|26||IS_OK|3]
+13:20:47 - Hard fail for localhost:1500
+13:20:47 - Need mutex [remove]
+13:20:47 - New mutex...
+13:20:47 - Token status is null
+13:20:47 - Request mutex...
+13:20:47 - Basic message SUZUKI_REQUEST - [6|localhost|1600] - [1|localhost|1100]
+13:20:47 - Basic message SUZUKI_REQUEST - [6|localhost|1600] - [2|localhost|1200]
+13:20:47 - Basic message SUZUKI_REQUEST - [6|localhost|1600] - [3|localhost|1300]
+13:20:47 - Basic message SUZUKI_REQUEST - [6|localhost|1600] - [5|localhost|1500]
+13:20:47 - Basic message SUZUKI_REQUEST - [6|localhost|1600] - [8|localhost|1800]
+13:20:48 - Sending message [6|28||SUZUKI_REQUEST|2]
+13:20:48 - Sending message [6|30||SUZUKI_REQUEST|5]
+13:20:48 - Sending message [6|31||SUZUKI_REQUEST|8]
+13:20:48 - Sending message [6|29||SUZUKI_REQUEST|3]
+13:20:48 - Sending message [6|27||SUZUKI_REQUEST|1]

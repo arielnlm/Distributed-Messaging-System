@@ -1,0 +1,115 @@
+13:18:32 - Starting servent [7|localhost|1700]
+13:18:32 - Don't have buddy to ping
+13:18:33 - Pausing for 60000 ms
+13:18:34 - Don't have buddy to ping
+13:18:35 - Don't have buddy to ping
+13:18:36 - Don't have buddy to ping
+13:18:37 - Don't have buddy to ping
+13:18:38 - Don't have buddy to ping
+13:18:39 - Don't have buddy to ping
+13:18:40 - Don't have buddy to ping
+13:18:41 - Don't have buddy to ping
+13:18:42 - Don't have buddy to ping
+13:18:43 - Don't have buddy to ping
+13:18:44 - Don't have buddy to ping
+13:18:45 - Don't have buddy to ping
+13:18:46 - Don't have buddy to ping
+13:18:47 - Don't have buddy to ping
+13:18:48 - Don't have buddy to ping
+13:18:49 - Don't have buddy to ping
+13:18:50 - Don't have buddy to ping
+13:18:51 - Don't have buddy to ping
+13:18:52 - Don't have buddy to ping
+13:18:53 - Don't have buddy to ping
+13:18:54 - Don't have buddy to ping
+13:18:55 - Don't have buddy to ping
+13:18:56 - Don't have buddy to ping
+13:18:57 - Don't have buddy to ping
+13:18:58 - Don't have buddy to ping
+13:18:59 - Don't have buddy to ping
+13:19:00 - Don't have buddy to ping
+13:19:01 - Don't have buddy to ping
+13:19:02 - Don't have buddy to ping
+13:19:03 - Don't have buddy to ping
+13:19:04 - Don't have buddy to ping
+13:19:05 - Don't have buddy to ping
+13:19:06 - Don't have buddy to ping
+13:19:07 - Don't have buddy to ping
+13:19:08 - Don't have buddy to ping
+13:19:09 - Don't have buddy to ping
+13:19:10 - Don't have buddy to ping
+13:19:11 - Don't have buddy to ping
+13:19:12 - Don't have buddy to ping
+13:19:13 - Don't have buddy to ping
+13:19:14 - Don't have buddy to ping
+13:19:15 - Don't have buddy to ping
+13:19:16 - Don't have buddy to ping
+13:19:17 - Don't have buddy to ping
+13:19:18 - Don't have buddy to ping
+13:19:19 - Don't have buddy to ping
+13:19:20 - Don't have buddy to ping
+13:19:21 - Don't have buddy to ping
+13:19:22 - Don't have buddy to ping
+13:19:23 - Don't have buddy to ping
+13:19:24 - Don't have buddy to ping
+13:19:25 - Don't have buddy to ping
+13:19:26 - Don't have buddy to ping
+13:19:27 - Don't have buddy to ping
+13:19:28 - Don't have buddy to ping
+13:19:29 - Don't have buddy to ping
+13:19:30 - Don't have buddy to ping
+13:19:31 - Don't have buddy to ping
+13:19:32 - Don't have buddy to ping
+13:19:33 - Basic message BOOTSTRAP_ASK - [7|localhost|1700] - null
+13:19:33 - Pausing for 5000 ms
+13:19:33 - Don't have buddy to ping
+13:19:34 - Sending message [7|0||BOOTSTRAP_ASK|]
+13:19:34 - Don't have buddy to ping
+13:19:35 - Don't have buddy to ping
+13:19:35 - Got message [0|6||BOOTSTRAP_RESPONSE|7]
+13:19:35 - Parse message [0|6||BOOTSTRAP_RESPONSE|7]
+13:19:35 - Bootstrap response [1|localhost|1100]
+13:19:35 - Someone should add me
+13:19:35 - Basic message ADD_ME - [7|localhost|1700] - [1|localhost|1100]
+13:19:35 - localhost:1100 will add me
+13:19:36 - Sending message [7|1||ADD_ME|1]
+13:19:36 - Don't have buddy to ping
+13:19:37 - Don't have buddy to ping
+13:19:38 - Pausing for 25000 ms
+13:19:38 - Don't have buddy to ping
+13:19:38 - Got message [1|56||WELCOME|7]
+13:19:38 - Parse message [1|56||WELCOME|7]
+13:19:39 - Got message [1|55||UPDATE_STATE|7]
+13:19:39 - Parse message [1|55||UPDATE_STATE|7]
+13:19:40 - Parse message [8|2|PING|PING|7]
+13:19:41 - Parse message [1|58|PONG|PONG|7]
+13:19:44 - Everyone is ok
+13:19:45 - Parse message [8|4|PING|PING|7]
+13:19:46 - Parse message [1|60|PONG|PONG|7]
+13:19:49 - Everyone is ok
+13:19:50 - Parse message [8|6|PING|PING|7]
+13:19:51 - Parse message [1|62|PONG|PONG|7]
+13:19:54 - Everyone is ok
+13:19:55 - Parse message [8|8|PING|PING|7]
+13:19:56 - Parse message [1|76|PONG|PONG|7]
+13:19:59 - Everyone is ok
+13:20:00 - Parse message [8|10|PING|PING|7]
+13:20:01 - Parse message [1|78|PONG|PONG|7]
+13:20:03 - Pausing for 30000 ms
+13:20:04 - Everyone is ok
+13:20:04 - Parse message [8|12|PING|PING|7]
+13:20:06 - Parse message [1|80|PONG|PONG|7]
+13:20:09 - Everyone is ok
+13:20:10 - Parse message [8|14|PING|PING|7]
+13:20:11 - Parse message [1|82|PONG|PONG|7]
+13:20:14 - Everyone is ok
+13:20:16 - Parse message [1|84|PONG|PONG|7]
+13:20:19 - Everyone is ok
+13:20:21 - Parse message [1|86|PONG|PONG|7]
+13:20:24 - Everyone is ok
+13:20:26 - Parse message [1|89|PONG|PONG|7]
+13:20:29 - Everyone is ok
+13:20:31 - Parse message [1|93|PONG|PONG|7]
+13:20:33 - Stopping...
+13:20:33 - Not working anymore
+13:20:34 - Everyone is ok

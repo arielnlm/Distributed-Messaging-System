@@ -1,0 +1,200 @@
+13:18:32 - Starting servent [0|localhost|1000]
+13:18:33 - Don't have buddy to ping
+13:18:33 - Pausing for 120000 ms
+13:18:34 - Don't have buddy to ping
+13:18:34 - Got message [1|0||BOOTSTRAP_ASK|]
+13:18:34 - Parse message [1|0||BOOTSTRAP_ASK|]
+13:18:34 - Bootstrap received message BOOTSTRAP_ASK
+13:18:34 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [1|localhost|1100]
+13:18:34 - First node is coming 
+13:18:35 - Don't have buddy to ping
+13:18:36 - Don't have buddy to ping
+13:18:36 - Sending message [0|0||BOOTSTRAP_RESPONSE|1]
+13:18:37 - Don't have buddy to ping
+13:18:37 - Got message [1|1||UPDATE_STATE|]
+13:18:37 - Parse message [1|1||UPDATE_STATE|]
+13:18:38 - Don't have buddy to ping
+13:18:39 - Don't have buddy to ping
+13:18:40 - Don't have buddy to ping
+13:18:41 - Don't have buddy to ping
+13:18:42 - Don't have buddy to ping
+13:18:43 - Don't have buddy to ping
+13:18:44 - Don't have buddy to ping
+13:18:45 - Don't have buddy to ping
+13:18:46 - Don't have buddy to ping
+13:18:47 - Don't have buddy to ping
+13:18:48 - Don't have buddy to ping
+13:18:49 - Don't have buddy to ping
+13:18:50 - Don't have buddy to ping
+13:18:51 - Don't have buddy to ping
+13:18:52 - Don't have buddy to ping
+13:18:53 - Don't have buddy to ping
+13:18:53 - Got message [2|0||BOOTSTRAP_ASK|]
+13:18:53 - Parse message [2|0||BOOTSTRAP_ASK|]
+13:18:53 - Bootstrap received message BOOTSTRAP_ASK
+13:18:53 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [2|localhost|1200]
+13:18:53 - Ask localhost:1100 to add localhost:1200
+13:18:54 - Don't have buddy to ping
+13:18:54 - Sending message [0|1||BOOTSTRAP_RESPONSE|2]
+13:18:55 - Don't have buddy to ping
+13:18:55 - Got message [1|10||UPDATE_STATE|]
+13:18:55 - Parse message [1|10||UPDATE_STATE|]
+13:18:56 - Don't have buddy to ping
+13:18:57 - Don't have buddy to ping
+13:18:58 - Don't have buddy to ping
+13:18:59 - Don't have buddy to ping
+13:19:00 - Don't have buddy to ping
+13:19:01 - Don't have buddy to ping
+13:19:02 - Don't have buddy to ping
+13:19:03 - Don't have buddy to ping
+13:19:04 - Don't have buddy to ping
+13:19:05 - Don't have buddy to ping
+13:19:06 - Don't have buddy to ping
+13:19:07 - Don't have buddy to ping
+13:19:08 - Don't have buddy to ping
+13:19:09 - Don't have buddy to ping
+13:19:10 - Don't have buddy to ping
+13:19:11 - Don't have buddy to ping
+13:19:12 - Don't have buddy to ping
+13:19:13 - Don't have buddy to ping
+13:19:13 - Got message [3|0||BOOTSTRAP_ASK|]
+13:19:13 - Parse message [3|0||BOOTSTRAP_ASK|]
+13:19:13 - Bootstrap received message BOOTSTRAP_ASK
+13:19:13 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [3|localhost|1300]
+13:19:13 - Ask localhost:1200 to add localhost:1300
+13:19:14 - Don't have buddy to ping
+13:19:15 - Sending message [0|2||BOOTSTRAP_RESPONSE|3]
+13:19:15 - Don't have buddy to ping
+13:19:16 - Don't have buddy to ping
+13:19:17 - Don't have buddy to ping
+13:19:18 - Don't have buddy to ping
+13:19:18 - Got message [2|12||UPDATE_STATE|]
+13:19:18 - Parse message [2|12||UPDATE_STATE|]
+13:19:19 - Don't have buddy to ping
+13:19:20 - Don't have buddy to ping
+13:19:21 - Don't have buddy to ping
+13:19:22 - Don't have buddy to ping
+13:19:23 - Don't have buddy to ping
+13:19:24 - Don't have buddy to ping
+13:19:25 - Don't have buddy to ping
+13:19:26 - Don't have buddy to ping
+13:19:27 - Don't have buddy to ping
+13:19:28 - Don't have buddy to ping
+13:19:29 - Don't have buddy to ping
+13:19:30 - Don't have buddy to ping
+13:19:31 - Don't have buddy to ping
+13:19:32 - Don't have buddy to ping
+13:19:33 - Don't have buddy to ping
+13:19:33 - Got message [6|0||BOOTSTRAP_ASK|]
+13:19:33 - Parse message [6|0||BOOTSTRAP_ASK|]
+13:19:33 - Bootstrap received message BOOTSTRAP_ASK
+13:19:33 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [6|localhost|1600]
+13:19:33 - Ask localhost:1200 to add localhost:1600
+13:19:33 - Got message [4|0||BOOTSTRAP_ASK|]
+13:19:33 - Parse message [4|0||BOOTSTRAP_ASK|]
+13:19:33 - Bootstrap received message BOOTSTRAP_ASK
+13:19:33 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [4|localhost|1400]
+13:19:33 - Ask localhost:1100 to add localhost:1400
+13:19:34 - Got message [5|0||BOOTSTRAP_ASK|]
+13:19:34 - Parse message [5|0||BOOTSTRAP_ASK|]
+13:19:34 - Bootstrap received message BOOTSTRAP_ASK
+13:19:34 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [5|localhost|1500]
+13:19:34 - Ask localhost:1200 to add localhost:1500
+13:19:34 - Got message [7|0||BOOTSTRAP_ASK|]
+13:19:34 - Parse message [7|0||BOOTSTRAP_ASK|]
+13:19:34 - Bootstrap received message BOOTSTRAP_ASK
+13:19:34 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [7|localhost|1700]
+13:19:34 - Ask localhost:1100 to add localhost:1700
+13:19:34 - Got message [8|0||BOOTSTRAP_ASK|]
+13:19:34 - Parse message [8|0||BOOTSTRAP_ASK|]
+13:19:34 - Bootstrap received message BOOTSTRAP_ASK
+13:19:34 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [8|localhost|1800]
+13:19:34 - Ask localhost:1100 to add localhost:1800
+13:19:34 - Got message [9|0||BOOTSTRAP_ASK|]
+13:19:34 - Parse message [9|0||BOOTSTRAP_ASK|]
+13:19:34 - Bootstrap received message BOOTSTRAP_ASK
+13:19:34 - Basic message BOOTSTRAP_RESPONSE - [0|localhost|1000] - [9|localhost|1900]
+13:19:34 - Ask localhost:1200 to add localhost:1900
+13:19:34 - Don't have buddy to ping
+13:19:35 - Sending message [0|5||BOOTSTRAP_RESPONSE|5]
+13:19:35 - Sending message [0|4||BOOTSTRAP_RESPONSE|4]
+13:19:35 - Don't have buddy to ping
+13:19:35 - Sending message [0|6||BOOTSTRAP_RESPONSE|7]
+13:19:35 - Sending message [0|3||BOOTSTRAP_RESPONSE|6]
+13:19:35 - Sending message [0|7||BOOTSTRAP_RESPONSE|8]
+13:19:35 - Sending message [0|8||BOOTSTRAP_RESPONSE|9]
+13:19:36 - Don't have buddy to ping
+13:19:36 - Got message [2|24||UPDATE_STATE|]
+13:19:36 - Parse message [2|24||UPDATE_STATE|]
+13:19:37 - Don't have buddy to ping
+13:19:37 - Got message [2|31||UPDATE_STATE|]
+13:19:37 - Parse message [2|31||UPDATE_STATE|]
+13:19:38 - Don't have buddy to ping
+13:19:39 - Got message [1|34||UPDATE_STATE|]
+13:19:39 - Parse message [1|34||UPDATE_STATE|]
+13:19:39 - Got message [1|48||UPDATE_STATE|]
+13:19:39 - Parse message [1|48||UPDATE_STATE|]
+13:19:39 - Got message [1|40||UPDATE_STATE|]
+13:19:39 - Parse message [1|40||UPDATE_STATE|]
+13:19:39 - Don't have buddy to ping
+13:19:40 - Don't have buddy to ping
+13:19:41 - Don't have buddy to ping
+13:19:42 - Don't have buddy to ping
+13:19:43 - Don't have buddy to ping
+13:19:44 - Don't have buddy to ping
+13:19:45 - Don't have buddy to ping
+13:19:45 - Got message [3|18||UPDATE_STATE|]
+13:19:45 - Parse message [3|18||UPDATE_STATE|]
+13:19:46 - Don't have buddy to ping
+13:19:46 - Got message [3|25||UPDATE_STATE|]
+13:19:46 - Parse message [3|25||UPDATE_STATE|]
+13:19:47 - Don't have buddy to ping
+13:19:48 - Don't have buddy to ping
+13:19:49 - Don't have buddy to ping
+13:19:50 - Don't have buddy to ping
+13:19:51 - Don't have buddy to ping
+13:19:52 - Don't have buddy to ping
+13:19:53 - Don't have buddy to ping
+13:19:54 - Don't have buddy to ping
+13:19:55 - Don't have buddy to ping
+13:19:55 - Got message [1|69||UPDATE_STATE|]
+13:19:55 - Parse message [1|69||UPDATE_STATE|]
+13:19:56 - Don't have buddy to ping
+13:19:57 - Don't have buddy to ping
+13:19:58 - Don't have buddy to ping
+13:19:59 - Don't have buddy to ping
+13:20:00 - Don't have buddy to ping
+13:20:01 - Don't have buddy to ping
+13:20:02 - Don't have buddy to ping
+13:20:03 - Don't have buddy to ping
+13:20:04 - Don't have buddy to ping
+13:20:05 - Don't have buddy to ping
+13:20:06 - Don't have buddy to ping
+13:20:07 - Don't have buddy to ping
+13:20:08 - Don't have buddy to ping
+13:20:09 - Don't have buddy to ping
+13:20:10 - Don't have buddy to ping
+13:20:11 - Don't have buddy to ping
+13:20:12 - Don't have buddy to ping
+13:20:13 - Don't have buddy to ping
+13:20:14 - Don't have buddy to ping
+13:20:15 - Don't have buddy to ping
+13:20:16 - Don't have buddy to ping
+13:20:17 - Don't have buddy to ping
+13:20:18 - Don't have buddy to ping
+13:20:19 - Don't have buddy to ping
+13:20:20 - Don't have buddy to ping
+13:20:21 - Don't have buddy to ping
+13:20:22 - Don't have buddy to ping
+13:20:23 - Don't have buddy to ping
+13:20:24 - Don't have buddy to ping
+13:20:25 - Don't have buddy to ping
+13:20:26 - Don't have buddy to ping
+13:20:27 - Don't have buddy to ping
+13:20:28 - Don't have buddy to ping
+13:20:29 - Don't have buddy to ping
+13:20:30 - Don't have buddy to ping
+13:20:31 - Don't have buddy to ping
+13:20:32 - Don't have buddy to ping
+13:20:33 - Stopping...
+13:20:33 - Not working anymore

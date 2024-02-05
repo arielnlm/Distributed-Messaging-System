@@ -1,0 +1,6 @@
+pause 40000
+add_me
+pause 30000
+add folder
+pause 50000
+stop

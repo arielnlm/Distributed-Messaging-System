@@ -1,0 +1,11 @@
+13:18:32 - Warning: graph is not clique, and node 0 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 1 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 2 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 3 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 4 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 5 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 6 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 7 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 8 doesnt have neighbors
+13:18:32 - Warning: graph is not clique, and node 9 doesnt have neighbors
+13:19:35 - Info: [0|8||BOOTSTRAP_RESPONSE|9] - []

@@ -1,0 +1,208 @@
+13:18:32 - Starting servent [3|localhost|1300]
+13:18:32 - Don't have buddy to ping
+13:18:32 - Pausing for 40000 ms
+13:18:33 - Don't have buddy to ping
+13:18:34 - Don't have buddy to ping
+13:18:35 - Don't have buddy to ping
+13:18:36 - Don't have buddy to ping
+13:18:37 - Don't have buddy to ping
+13:18:38 - Don't have buddy to ping
+13:18:39 - Don't have buddy to ping
+13:18:40 - Don't have buddy to ping
+13:18:41 - Don't have buddy to ping
+13:18:43 - Don't have buddy to ping
+13:18:44 - Don't have buddy to ping
+13:18:45 - Don't have buddy to ping
+13:18:46 - Don't have buddy to ping
+13:18:47 - Don't have buddy to ping
+13:18:48 - Don't have buddy to ping
+13:18:49 - Don't have buddy to ping
+13:18:50 - Don't have buddy to ping
+13:18:51 - Don't have buddy to ping
+13:18:52 - Don't have buddy to ping
+13:18:53 - Don't have buddy to ping
+13:18:54 - Don't have buddy to ping
+13:18:55 - Don't have buddy to ping
+13:18:56 - Don't have buddy to ping
+13:18:57 - Don't have buddy to ping
+13:18:58 - Don't have buddy to ping
+13:18:59 - Don't have buddy to ping
+13:19:00 - Don't have buddy to ping
+13:19:01 - Don't have buddy to ping
+13:19:02 - Don't have buddy to ping
+13:19:03 - Don't have buddy to ping
+13:19:04 - Don't have buddy to ping
+13:19:05 - Don't have buddy to ping
+13:19:06 - Don't have buddy to ping
+13:19:07 - Don't have buddy to ping
+13:19:08 - Don't have buddy to ping
+13:19:09 - Don't have buddy to ping
+13:19:10 - Don't have buddy to ping
+13:19:11 - Don't have buddy to ping
+13:19:12 - Don't have buddy to ping
+13:19:12 - Basic message BOOTSTRAP_ASK - [3|localhost|1300] - null
+13:19:12 - Pausing for 30000 ms
+13:19:13 - Don't have buddy to ping
+13:19:13 - Sending message [3|0||BOOTSTRAP_ASK|]
+13:19:14 - Don't have buddy to ping
+13:19:15 - Got message [0|2||BOOTSTRAP_RESPONSE|3]
+13:19:15 - Parse message [0|2||BOOTSTRAP_RESPONSE|3]
+13:19:15 - Bootstrap response [2|localhost|1200]
+13:19:15 - Someone should add me
+13:19:15 - Basic message ADD_ME - [3|localhost|1300] - [2|localhost|1200]
+13:19:15 - localhost:1200 will add me
+13:19:15 - Don't have buddy to ping
+13:19:15 - Sending message [3|1||ADD_ME|2]
+13:19:16 - Don't have buddy to ping
+13:19:17 - Don't have buddy to ping
+13:19:18 - Don't have buddy to ping
+13:19:18 - Got message [2|16||WELCOME|3]
+13:19:18 - Parse message [2|16||WELCOME|3]
+13:19:18 - Got message [2|15||UPDATE_STATE|3]
+13:19:18 - Parse message [2|15||UPDATE_STATE|3]
+13:19:21 - Parse message [1|24|PONG|PONG|3]
+13:19:22 - Parse message [2|18|PING|PING|3]
+13:19:24 - Everyone is ok
+13:19:26 - Parse message [1|26|PONG|PONG|3]
+13:19:26 - Parse message [2|20|PING|PING|3]
+13:19:29 - Everyone is ok
+13:19:31 - Parse message [1|28|PONG|PONG|3]
+13:19:32 - Parse message [2|22|PING|PING|3]
+13:19:34 - Everyone is ok
+13:19:36 - Parse message [1|30|PONG|PONG|3]
+13:19:36 - Got message [2|27||UPDATE_STATE|3]
+13:19:36 - Parse message [2|27||UPDATE_STATE|3]
+13:19:37 - Got message [2|34||UPDATE_STATE|3]
+13:19:37 - Parse message [2|34||UPDATE_STATE|3]
+13:19:37 - Parse message [2|30|PING|PING|3]
+13:19:37 - Got message [1|32||SUZUKI_REQUEST|3]
+13:19:37 - Parse message [1|32||SUZUKI_REQUEST|3]
+13:19:38 - Got message [2|40||SUZUKI_REQUEST|3]
+13:19:38 - Parse message [2|40||SUZUKI_REQUEST|3]
+13:19:38 - Got message [1|51||UPDATE_STATE|3]
+13:19:38 - Parse message [1|51||UPDATE_STATE|3]
+13:19:39 - Everyone is ok
+13:19:39 - Got message [1|37||UPDATE_STATE|3]
+13:19:39 - Parse message [1|37||UPDATE_STATE|3]
+13:19:39 - Got message [1|43||UPDATE_STATE|3]
+13:19:39 - Parse message [1|43||UPDATE_STATE|3]
+13:19:41 - Parse message [8|3|PONG|PONG|3]
+13:19:41 - Parse message [2|43|PING|PING|3]
+13:19:43 - Adding file working_root/folder
+13:19:43 - Need mutex [update]
+13:19:43 - New mutex...
+13:19:43 - Token status is null
+13:19:43 - Request mutex...
+13:19:43 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [1|localhost|1100]
+13:19:43 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [2|localhost|1200]
+13:19:43 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [6|localhost|1600]
+13:19:43 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [5|localhost|1500]
+13:19:43 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [8|localhost|1800]
+13:19:43 - Sending message [3|12||SUZUKI_REQUEST|1]
+13:19:43 - Sending message [3|13||SUZUKI_REQUEST|2]
+13:19:44 - Sending message [3|16||SUZUKI_REQUEST|8]
+13:19:44 - Sending message [3|15||SUZUKI_REQUEST|5]
+13:19:44 - Sending message [3|14||SUZUKI_REQUEST|6]
+13:19:44 - Everyone is ok
+13:19:45 - Got message [2|45||SUZUKI_REPLY|3]
+13:19:45 - Parse message [2|45||SUZUKI_REPLY|3]
+13:19:45 - In mutex [update]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - null
+13:19:45 - Got mutex - mutex.suzuki.SuzukiToken@70b72190
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [1|localhost|1100]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [2|localhost|1200]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [3|localhost|1300]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [6|localhost|1600]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [5|localhost|1500]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [8|localhost|1800]
+13:19:45 - Unlock [update]
+13:19:45 - Need mutex [update]
+13:19:45 - New mutex...
+13:19:45 - Token status is mutex.suzuki.SuzukiToken@70b72190
+13:19:45 - In mutex [update]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - null
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [1|localhost|1100]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [2|localhost|1200]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [3|localhost|1300]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [6|localhost|1600]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [5|localhost|1500]
+13:19:45 - Basic message UPDATE_STATE - [3|localhost|1300] - [8|localhost|1800]
+13:19:45 - Unlock [update]
+13:19:45 - Pausing for 50000 ms
+13:19:45 - Sending message [3|18||UPDATE_STATE|]
+13:19:45 - Parse message [8|5|PONG|PONG|3]
+13:19:45 - Sending message [3|20||UPDATE_STATE|2]
+13:19:46 - Sending message [3|28||UPDATE_STATE|3]
+13:19:46 - Got message [3|28||UPDATE_STATE|3]
+13:19:46 - Parse message [3|28||UPDATE_STATE|3]
+13:19:46 - Sending message [3|31||UPDATE_STATE|8]
+13:19:46 - Sending message [3|22||UPDATE_STATE|6]
+13:19:46 - Sending message [3|21||UPDATE_STATE|3]
+13:19:46 - Sending message [3|26||UPDATE_STATE|1]
+13:19:46 - Got message [3|21||UPDATE_STATE|3]
+13:19:46 - Parse message [3|21||UPDATE_STATE|3]
+13:19:46 - Sending message [3|23||UPDATE_STATE|5]
+13:19:46 - Sending message [3|29||UPDATE_STATE|6]
+13:19:46 - Sending message [3|25||UPDATE_STATE|]
+13:19:46 - Sending message [3|30||UPDATE_STATE|5]
+13:19:46 - Sending message [3|24||UPDATE_STATE|8]
+13:19:46 - Sending message [3|27||UPDATE_STATE|2]
+13:19:46 - Sending message [3|19||UPDATE_STATE|1]
+13:19:47 - Parse message [2|46|PING|PING|3]
+13:19:49 - Everyone is ok
+13:19:51 - Parse message [8|7|PONG|PONG|3]
+13:19:52 - Parse message [2|48|PING|PING|3]
+13:19:54 - Got message [1|65||SUZUKI_REQUEST|3]
+13:19:54 - Parse message [1|65||SUZUKI_REQUEST|3]
+13:19:54 - I have token!
+13:19:54 - I'm giving token!
+13:19:54 - Basic message SUZUKI_REPLY - [3|localhost|1300] - [1|localhost|1100]
+13:19:54 - Everyone is ok
+13:19:54 - Got message [2|50||SUZUKI_REQUEST|3]
+13:19:54 - Parse message [2|50||SUZUKI_REQUEST|3]
+13:19:55 - Sending message [3|35||SUZUKI_REPLY|1]
+13:19:55 - Got message [1|72||UPDATE_STATE|3]
+13:19:55 - Parse message [1|72||UPDATE_STATE|3]
+13:19:56 - Parse message [8|9|PONG|PONG|3]
+13:19:56 - Parse message [2|55|PING|PING|3]
+13:19:59 - Everyone is ok
+13:20:01 - Parse message [8|11|PONG|PONG|3]
+13:20:01 - Parse message [2|57|PING|PING|3]
+13:20:04 - Everyone is ok
+13:20:05 - Parse message [8|13|PONG|PONG|3]
+13:20:06 - Parse message [2|59|PING|PING|3]
+13:20:09 - Everyone is ok
+13:20:10 - Parse message [8|15|PONG|PONG|3]
+13:20:12 - Parse message [2|61|PING|PING|3]
+13:20:14 - Everyone is ok
+13:20:17 - Parse message [2|63|PING|PING|3]
+13:20:19 - Soft fail for localhost:1800
+13:20:19 - Basic message IS_OK - [3|localhost|1300] - [1|localhost|1100]
+13:20:20 - Sending message [3|46||IS_OK|1]
+13:20:22 - Parse message [2|65|PING|PING|3]
+13:20:26 - Got message [1|90||NOT_OK|3]
+13:20:26 - Parse message [1|90||NOT_OK|3]
+13:20:26 - Servent localhost:1800 hard failed!
+13:20:27 - Parse message [2|67|PING|PING|3]
+13:20:29 - Hard fail for localhost:1800
+13:20:29 - Need mutex [remove]
+13:20:29 - New mutex...
+13:20:29 - Token status is null
+13:20:29 - Request mutex...
+13:20:29 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [1|localhost|1100]
+13:20:29 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [2|localhost|1200]
+13:20:29 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [6|localhost|1600]
+13:20:29 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [5|localhost|1500]
+13:20:29 - Basic message SUZUKI_REQUEST - [3|localhost|1300] - [8|localhost|1800]
+13:20:30 - Sending message [3|50||SUZUKI_REQUEST|2]
+13:20:30 - Sending message [3|49||SUZUKI_REQUEST|1]
+13:20:30 - Sending message [3|53||SUZUKI_REQUEST|8]
+13:20:30 - Sending message [3|52||SUZUKI_REQUEST|5]
+13:20:30 - Sending message [3|51||SUZUKI_REQUEST|6]
+13:20:31 - Got message [1|92||SUZUKI_REPLY|3]
+13:20:31 - Parse message [1|92||SUZUKI_REPLY|3]
+13:20:31 - In mutex [remove]
+13:20:31 - Got mutex - mutex.suzuki.SuzukiToken@c8fd982
+13:20:31 - Parse message [2|69|PING|PING|3]
+13:20:35 - Stopping...
+13:20:35 - Not working anymore

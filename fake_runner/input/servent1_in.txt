@@ -1,0 +1,8 @@
+pause 1000
+add_me
+pause 79000
+add test1.txt
+pause 20000
+pull test1.txt
+pause 20000
+stop
